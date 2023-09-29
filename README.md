@@ -1,2 +1,1 @@
-# Strukdat_220304_Modul
-Latihan soal modul mata kuliah Struktur Data
+Latihan soal [modul](https://github.com/AlproITS/StrukturData/wiki) struktur data oleh [lab Alpro](https://github.com/AlproITS)
